@@ -1,0 +1,9 @@
+colorama
+requests
+socket
+ipadresse
+time
+subprocess
+threading
+re
+art
